@@ -1,1 +1,9 @@
-# Master-CSharp-HttpClient-RESTful-API
+# 精通 C# HttpClient 動手練習系列 原始碼
+
+|類型|專案名稱|專案說明|
+|-|-|-|
+||||
+||||
+||||
+
+
